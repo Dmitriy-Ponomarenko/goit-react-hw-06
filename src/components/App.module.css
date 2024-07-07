@@ -1,0 +1,17 @@
+.title {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.titleText {
+  color: #5b53c4;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #0b0b0b;
+  font-family: "Shadows Into Light Two", cursive;
+  font-size: 65px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -1px;
+}

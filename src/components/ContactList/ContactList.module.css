@@ -1,0 +1,14 @@
+.contactList {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-left: 124px;
+  margin-right: 124px;
+}
+@media screen and (min-width: 320px) and (max-width: 1439px) {
+  .contactList {
+    justify-content: center;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
